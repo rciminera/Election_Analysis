@@ -8,8 +8,7 @@ The information in this report will be used to certify the winning candidate and
 
 The analysis was conducted by using a python script to read and analyze the raw election file and create output in the form of a text file and display to the terminal.
 
-The script file can be referenced here
-{PyPoll_Challenge.py](https://github.com/rciminera/Election_Analysis/blob/main/PyPoll_Challenge.py)
+The script file [PyPoll_Challenge.py](https://github.com/rciminera/Election_Analysis/blob/main/PyPoll_Challenge.py) can be referenced here.
 
 ## Election-Audit Results: 
 
