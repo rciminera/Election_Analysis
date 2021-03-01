@@ -28,7 +28,9 @@ Following are the results of the election:
 
 Below is a screen print of the terminal output:
 
-(Insert screenshot here)
+![GitHubLogo](https://github.com/rciminera/Election_Analysis/blob/main/Resources/PyPoll_Challenge%20Print%20to%20Terminal.png)
+
+And the output text file can be found here: 
 
 
 ## Election-Audit Summary: 
