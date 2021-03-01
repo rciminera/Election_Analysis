@@ -9,6 +9,7 @@ The information in this report will be used to certify the winning candidate and
 The analysis was conducted by using a python script to read and analyze the raw election file and create output in the form of a text file and display to the terminal.
 
 The script file can be referenced here
+(Insert script file here)
 
 ## Election-Audit Results: 
 
@@ -16,15 +17,15 @@ Following are the results of the election:
 
 - 369,711 total votes were cast.
 -	There were 3 counties represented in the election:
-	Jefferson with 38,855 votes representing 10.5% of the total votes.
-Denver with 306,055 votes representing the majority the votes with 306,055 votes and 82.8% of the total votes.
-Arapahoe with 24,801 votes and 6.7% of the total
+	- Jefferson with 38,855 votes representing 10.5% of the total votes.
+	- Denver with 306,055 votes representing the majority the votes with 306,055 votes and 82.8% of the total votes.
+	- Arapahoe with 24,801 votes and 6.7% of the total
 -	Denver had the largest turnout by a significant margin
 -	There were 3 candidates in the election:
-o	Charles Casper Stockham with 85,213 votes representing 23.0% of the total votes counted.
-o	Diann DeGette had the majority of votes at 272,892 and 73.8% of the total.
-o	Raymon Anthony Doane had 11,606 votes with 3.1% of the total
--	The winner of the Congressional Election was Diaba DeGette
+	- Charles Casper Stockham with 85,213 votes representing 23.0% of the total votes counted.
+	- Diana DeGette had the majority of votes at 272,892 and 73.8% of the total.
+	- Raymon Anthony Doane had 11,606 votes with 3.1% of the total
+-	The winner of the Congressional Election was Diana DeGette
 
 Below is a screen print of the terminal output:
 
