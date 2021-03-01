@@ -2,9 +2,9 @@
 
 ## Overview 
 
-The purpose of the Election Analysis is to create an audit file to certify the resultd of the US Congressional Race in Colorado.
+The purpose of the Election Analysis is to create an audit file to certify the results of the US Congressional Race in Colorado.
 
-The information in this report will be used to certify the winning candidate and will include total number of votes with a breakdown of vote count by Candidate and County in the congressional district.
+The information in this report is useful to determine/confirm the winning candidate based on vote count. The report also includes a count of total votes with a breakdown by Candidate and County in the congressional district.
 
 The analysis was conducted by using a python script to read and analyze the raw election file and create output in the form of a text file and display to the terminal.
 
@@ -30,17 +30,17 @@ Below is a screen print of the terminal output:
 
 ![GitHubLogo](https://github.com/rciminera/Election_Analysis/blob/main/Resources/PyPoll_Challenge%20Print%20to%20Terminal.png)
 
-And the output text file can be found here: 
+The output text file can be found here: [election_results.txt](https://github.com/rciminera/Election_Analysis/blob/main/Results/election_results.txt)
 
 
 ## Election-Audit Summary: 
 
-This analysis is an efficient tool that can be used in other elections to quickly determine the distribution of votes from a raw source election data.  This information is highly useful for monitoring the results and can be used for certification of the final results.
+This analysis is an efficient tool that can be used in other elections to quickly determine the distribution of votes from an election data source.  This information could be highly useful for monitoring and certifying the results of any election provided that the data is reliable from the source.
 
 This script can be modified as follows:
 
--	The script can also be used for other local, state, and federal elections.
+-	Can be used for any local, state, and federal elections provided the information is in a CSV file.
 -	It can report on additional data elements such as political party or any other data that can be obtained in an input file.
--	Different analyses can also be done.  For example, an analysis of votes by candidate by geography can be created as well as any other similar reports
+-	Different analyses can also be done.  For example, an analysis of votes by candidate by geography can be created as well as any other similar reports.
 -	These reports can be standardized to run not only to certify the final result of an election but can also be run at will during the election event to monitor the race as the votes come in.
 
