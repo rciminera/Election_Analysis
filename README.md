@@ -8,7 +8,10 @@ The information in this report is useful to determine/confirm the winning candid
 
 The analysis was conducted by using a python script to read and analyze the raw election file and create output in the form of a text file and display to the terminal.
 
-The script file [PyPoll_Challenge.py](https://github.com/rciminera/Election_Analysis/blob/main/PyPoll_Challenge.py) can be referenced here.
+Following is the link to the python script: [PyPoll_Challenge.py](https://github.com/rciminera/Election_Analysis/blob/main/PyPoll_Challenge.py)
+
+Following is the link to the source data file: [election_results.csv](https://github.com/rciminera/Election_Analysis/blob/main/Resources/election_results.csv) 
+
 
 ## Election-Audit Results: 
 
